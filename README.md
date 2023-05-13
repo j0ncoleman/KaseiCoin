@@ -2,8 +2,8 @@
 
 ## Evaluation Evidence
 
-![compile1](/images/compile1)
-![compile2](/images/compile2)
-![compile3](/images/compile3)
-![metamask](/images/metamask)
-![ganache](/images/ganache)
+![compile1](/Images/compile1)
+![compile2](/Images/compile2)
+![compile3](/Images/compile3)
+![metamask](/Images/metamask)
+![ganache](/Images/ganache)
